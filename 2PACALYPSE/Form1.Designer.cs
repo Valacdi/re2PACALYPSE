@@ -137,7 +137,7 @@ namespace _2PACALYPSE
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(254, 48);
             this.label7.TabIndex = 9;
-            this.label7.Text = "r.i.p 2pac u were the meanin \r\nof lyfe -valacdi";
+            this.label7.Text = "r.i.p 2pac u were the meanin \r\nof lyfe -čikis";
             // 
             // pictureBox2
             // 
