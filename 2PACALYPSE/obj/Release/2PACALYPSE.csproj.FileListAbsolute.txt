@@ -1,0 +1,14 @@
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\bin\Release\2PACALYPSE.exe.config
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\bin\Release\2PACALYPSE.exe
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\bin\Release\2PACALYPSE.pdb
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\_2PACALYPSE.Form1.resources
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\_2PACALYPSE.Properties.Resources.resources
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.csproj.GenerateResource.cache
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.csproj.CoreCompileInputs.cache
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.exe
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.pdb
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\bin\Release\2PACALYPSE.exe.manifest
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\bin\Release\2PACALYPSE.application
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.csproj.AssemblyReference.cache
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.exe.manifest
+C:\Users\valac\source\repos\2PACALYPSE\2PACALYPSE\obj\Release\2PACALYPSE.application
